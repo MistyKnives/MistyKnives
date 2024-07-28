@@ -21,7 +21,7 @@ I am a 19-year-old developer with a passion for creating innovative solutions th
 
 ### ValTracker
 
-<p><a href="https://valtracker.xyz"><strong>ValTracker</strong></a> is a comprehensive and innovative Discord bot designed to enhance the gaming experience for Valorant players. It enables users to showcase their game stats, matches, and achievements directly to their Discord community. With ValTracker, players can effortlessly share their latest game highlights, track performance over time, and engage with friends like never before.</p>
+<p><a href="https://valtracker.xyz"><strong>ValTracker</strong></a> is a comprehensive and innovative Discord bot designed to enhance the gaming experience for Valorant players. It enables users to showcase their game stats, matches, and achievements directly to their Discord community. With ValTracker, players can effortlessly share their latest game highlights, track performance over time, and engage with friends like never before.<br><br><a href="https://discord.gg/924SGkhSbs"><strong>Join the ValTracker Discord now!</strong></a>
 
 <h3>GitHub Stats</h3>
 
